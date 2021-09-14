@@ -7,7 +7,7 @@ My name is Guilherme Miranda and I'm a software engineer. I wrote my very first 
 - Student of [Applied Software Engineering Research Group (ASERG)](http://aserg.labsoft.dcc.ufmg.br/)
 
 Get in touch
-- [Site](guilhermealbm.github.io/)
-- [Twitter](twitter.com/guilhermealbm)
+- [Site](https://guilhermealbm.github.io/)
+- [Twitter](https://twitter.com/guilhermealbm)
 - [LinkedIn](https://www.linkedin.com/in/guilherme-miranda-581055191/)
 
