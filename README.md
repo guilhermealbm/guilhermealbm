@@ -1,13 +1,8 @@
 ### Hi there 👋
 
-My name is Guilherme Miranda and I'm a software engineer. I wrote my very first [android app](https://github.com/guilhermealbm/HortinhaB) for a high school project back in 2015 and fell in love since then. 
-- Android Developer @ [Banco Inter](https://www.bancointer.com.br/)
-- My main skills are on Android, Kotlin and Java development.
-- CompSci undergrad student at [DCC / UFMG](https://dcc.ufmg.br/dcc/)
-- Student of [Applied Software Engineering Research Group (ASERG)](http://aserg.labsoft.dcc.ufmg.br/)
+I'm an Android Engineer who created his first [app](https://github.com/guilhermealbm/HortinhaB) for a school project in 2015 and has been in love with it ever since. Currently, I work at [Inter Bank](https://www.bancointer.com.br/) and study Computer Science at [DCC / UFMG (Federal University of Minas Gerais)](https://dcc.ufmg.br/dcc/). I have experience with Kotlin, Java, Python and C++. On Android, I have experience with Hilt, Compose, Room, Koin, etc. aside from mvvm and mvc architectures.
 
 Get in touch
-- [Site](https://guilhermealbm.github.io/)
+- [Site](guilhermealbm.com)
 - [Twitter](https://twitter.com/guilhermealbm)
 - [LinkedIn](https://www.linkedin.com/in/guilherme-miranda-581055191/)
-
