@@ -1,7 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
-Currently working at Joyn (ProSiebenSat.1), I’m an Android Engineer with a BSc degree in Computer Science from UFMG (Federal University of Minas Gerais). Proficient in Kotlin, Java, Python, and C++, I developed my first [app](https://github.com/guilhermealbm/HortinhaB) as a school project back in 2015 and have loved working with Android ever since. I’m passionate about using technology to solve real-world problems, with a strong foundation in both MVVM and MVC architectures and hands-on experience with Hilt, Jetpack Compose, Room, Koin, and other tools.
+I'm Guilherme, a software engineer from Brazil, currently based in Berlin.
 
-Get in touch
+I work mostly with Android and Kotlin, and I enjoy building software that is useful, simple, and pleasant to use.
+
+Outside of work, I enjoy making coffee, running, and experimenting with small side projects :)
+
+## Recent posts
+
+- [Reviving my old Kindle](https://guilhermealbm.com/posts/reviving-my-old-kindle/)
+- [Compose Previews as the Source of Truth](https://guilhermealbm.com/posts/compose-previews-as-the-source-of-truth/)
+- [Why Focus in Compose Is About Structure, Not Modifiers](https://guilhermealbm.com/posts/why-focus-in-compose-is-about-structure-not-modifiers/)
+
+## Links
+
 - [Website](http://guilhermealbm.com)
 - [LinkedIn](https://www.linkedin.com/in/guilhermealbm)
