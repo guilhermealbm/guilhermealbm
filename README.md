@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Guilherme, a software engineer from Brazil, currently based in Berlin.
+I'm Guilherme, a software engineer from Brazil, currently based in Dublin.
 
 I work mostly with Android and Kotlin, and I enjoy building software that is useful, simple, and pleasant to use.
 
