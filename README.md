@@ -8,9 +8,9 @@ Outside of work, I enjoy making coffee, running, and experimenting with small si
 
 ## Recent posts
 
+- [Small revolutions](https://guilhermealbm.com/posts/small-revolutions/)
 - [Reviving my old Kindle](https://guilhermealbm.com/posts/reviving-my-old-kindle/)
 - [Compose Previews as the Source of Truth](https://guilhermealbm.com/posts/compose-previews-as-the-source-of-truth/)
-- [Why Focus in Compose Is About Structure, Not Modifiers](https://guilhermealbm.com/posts/why-focus-in-compose-is-about-structure-not-modifiers/)
 
 ## Links
 
